@@ -11,37 +11,38 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Space Tourism Website</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/kevinpadi/space-tourism-website" target="_blank"><img src="https://github.com/KevinPadi/space-tourism-website/raw/main/src/assets/screenShot.png" width="400" alt="space tourism website"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/kevinpadi/space-tourism-website" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://kevinpadi.github.io/space-tourism-website/" target="_blank">
+<img src="https://img.shields.io/badge/-LIVE SITE-black?style=for-the-badge&color=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Un <strong>SPA</strong> sobre <strong>turismo espacial</strong> con diferentes páginas hecho con <strong>React ⚛</strong>, <strong>Tailwind CSS 🎨</strong>, <strong>Framer Motion</strong> para <strong>animaciones</strong> y <strong>React Wouter</strong> para <strong>paginación</strong>.
+</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
+<h3 align="center">IP Adress Tracker</h3>
+<div align="center">
+<a href="https://github.com/kevinpadi/ip-adress-tracker" target="_blank"><img src="https://github.com/KevinPadi/ip-adress-tracker-app/raw/main/design/desktop-preview.jpg" width="400" alt="ip adress tracker"></a>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/kevinpadi/ip-adress-tracker" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<a href="https://kevinpadi.github.io/ip-adress-tracker/" target="_blank">
+<img src="https://img.shields.io/badge/-LIVE SITE-black?style=for-the-badge&color=white">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+<p>Una aplicación que te permite buscar cualquier <strong>IP</strong> o <strong>dominio</strong> utilizando una <strong>API</strong> y te muestra: <strong>Direccion IP</strong>, <strong>Ubicación</strong>, <strong>Zona horaria</strong> e <strong>ISP</strong> y además ves la <strong>ubicación exacta</strong> en un <strong>mapa</strong> utilizando otra <strong>API</strong> 🗺.
+</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -50,35 +51,37 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Shortly</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/kevinpadi/url-shortening-app" target="_blank"><img src="https://github.com/KevinPadi/url-shortening-app/blob/main/design/desktop-preview.jpg?raw=true" width="400" alt="shortly"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/kevinpadi/url-shortening-app" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://kevinpadi.github.io/url-shortening-app" target="_blank">
+<img src="https://img.shields.io/badge/-LIVE SITE-black?style=for-the-badge&color=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aplicación web que permite a los usuarios <strong>acortar enlaces</strong> ⛓. Construido con <strong>React</strong> ⚛ y <strong>Tailwind CSS</strong>🎨, cuenta con la funcionalidad de <strong>acortar enlaces</strong>, copiar los enlaces acortados al portapapeles y un historial de enlaces previamente acortados. 🚀
+</p>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">TODO App</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/kevinpadi/todo-app" target="_blank"><img src="https://github.com/KevinPadi/todo-app/blob/main/design/desktop-preview.jpg" width="400" alt="todo app"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/kevinpadi/todo-app" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+<a href="https://kevinpadi.github.io/todo-app" target="_blank">
+<img src="https://img.shields.io/badge/-LIVE SITE-black?style=for-the-badge&color=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Una aplicación de <strong>Todos</strong> sencilla creada con <strong>React ⚛</strong>, <strong>Chakra UI 🎨</strong> y <strong>Framer Motion</strong> para poder <strong>ordenar la lista</strong>. Puedes <strong>filtrar los todos</strong> dependiendo de su <strong>estado</strong> y <strong>ordenarlos</strong> como prefieras! 🔥
+</p>
 </div>
                                                                                       
 </td>  
