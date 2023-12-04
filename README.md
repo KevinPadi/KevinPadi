@@ -46,7 +46,7 @@
                <br>
 <h3 align="center">IP Adress Tracker</h3>
 <div align="center">
-<a href="https://github.com/kevinpadi/ip-adress-tracker" target="_blank"><img src="https://github.com/KevinPadi/ip-adress-tracker-app/raw/main/design/desktop-preview.jpg" width="400" alt="ip adress tracker"></a>
+<a href="https://github.com/kevinpadi/ip-adress-tracker-app" target="_blank"><img src="https://github.com/KevinPadi/ip-adress-tracker-app/raw/main/design/desktop-preview.jpg" width="400" alt="ip adress tracker"></a>
 <p>
 <a href="https://github.com/kevinpadi/ip-adress-tracker-app" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
