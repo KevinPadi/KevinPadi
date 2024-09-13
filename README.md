@@ -2,8 +2,7 @@
 
 ###
 
-- Desarrollador frontend junior de Uruguay 🧉🇺🇾.
-- Aprendiendo JavaScript y React ⚛️.
+- Desarrollador full stack de Uruguay 🧉🇺🇾.
 - Actualmente buscando trabajo 💻.
 
 ###
