@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif"  />
+  <img width="100%" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" style="object-fit: contain;" />
 </div>
 
 <h1 align="left">Hola! 👋 Soy Kevin</h1>
@@ -28,6 +28,48 @@
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">Notiony</h3>
+<div align="center">
+<a href="https://github.com/kevinpadi/notion-clone" target="_blank"><img src="https://github.com/KevinPadi/notion-clone/raw/main/public/notiony-mockup.png" width="400" alt="Notiony mockup"></a>
+<p>
+<a href="https://github.com/kevinpadi/notion-clone" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://notiony-gray.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/-LIVE SITE-black?style=for-the-badge&color=white">
+</a>
+</p>
+<p>
+  Clon de Notion Full Stack desarrollado con el stack MERN, TypeScript y usando el editor de TipTap
+</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">My Task Board</h3>
+<div align="center">
+<a href="https://github.com/kevinpadi/my-task-board" target="_blank"><img src="https://camo.githubusercontent.com/c7eb47f1e2d158207dbc5ac9e6324f27e1487c75a0360c48964f1f2bab4eddbb/68747470733a2f2f6d792d7461736b2d626f6172642d74656e2e76657263656c2e6170702f6173736574732f6d795f7461736b5f626f6172645f6865726f2d434b5a34544a47412e77656270" width="400" alt="My Task Board"></a>
+<p>
+<a href="https://github.com/kevinpadi/my-task-board" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://my-task-board-ten.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/-LIVE SITE-black?style=for-the-badge&color=white">
+</a>
+</p>
+<p>
+  My Task Board es una aplicación full-stack para organizar tareas de manera simple y efectiva.
+</p>
+</div>
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
 <h3 align="center">Space Tourism Website</h3>
 <div align="center">
 <a href="https://github.com/kevinpadi/space-tourism-website" target="_blank"><img src="https://github.com/KevinPadi/space-tourism-website/raw/main/src/assets/screenShot.png" width="400" alt="space tourism website"></a>
@@ -42,68 +84,25 @@
 <p>Un <strong>SPA</strong> sobre <strong>turismo espacial</strong> con diferentes páginas hecho con <strong>React ⚛</strong>, <strong>Tailwind CSS 🎨</strong>, <strong>Framer Motion</strong> para <strong>animaciones</strong> y <strong>React Wouter</strong> para <strong>paginación</strong>.
 </p>
 </div>
-                                                                                      
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">IP Adress Tracker</h3>
+<h3 align="center">IPTracker</h3>
 <div align="center">
-<a href="https://github.com/kevinpadi/ip-adress-tracker-app" target="_blank"><img src="https://github.com/KevinPadi/ip-adress-tracker-app/raw/main/design/desktop-preview.jpg" width="400" alt="ip adress tracker"></a>
+<a href="https://github.com/kevinpadi/IPTracker" target="_blank"><img src="https://github.com/KevinPadi/IPTracker/raw/main/public/screenshot.png" width="400" alt="shortly"></a>
 <p>
-<a href="https://github.com/kevinpadi/ip-adress-tracker-app" target="_blank">
+<a href="https://github.com/kevinpadi/IPTracker" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://kevinpadi.github.io/ip-adress-tracker-app/" target="_blank">
+<a href="https://ip-tracker-dusky.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE SITE-black?style=for-the-badge&color=white">
 </a>
 </p>
-<p>Una aplicación que te permite buscar cualquier <strong>IP</strong> o <strong>dominio</strong> utilizando una <strong>API</strong> y te muestra: <strong>Direccion IP</strong>, <strong>Ubicación</strong>, <strong>Zona horaria</strong> e <strong>ISP</strong> y además ves la <strong>ubicación exacta</strong> en un <strong>mapa</strong> utilizando otra <strong>API</strong> 🗺.
-</p>
-</div>                                                             
-</table>                                                                                 
+<p></p>
 </div>
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Shortly</h3>
-<div align="center">
-<a href="https://github.com/kevinpadi/url-shortening-app" target="_blank"><img src="https://github.com/KevinPadi/url-shortening-app/blob/main/design/desktop-preview.jpg?raw=true" width="400" alt="shortly"></a>
-<p>
-<a href="https://github.com/kevinpadi/url-shortening-app" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://kevinpadi.github.io/url-shortening-app" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE SITE-black?style=for-the-badge&color=white">
-</a>
-</p>
-<p>Aplicación web que permite a los usuarios <strong>acortar enlaces</strong> ⛓. Construido con <strong>React</strong> ⚛ y <strong>Tailwind CSS</strong>🎨, cuenta con la funcionalidad de <strong>acortar enlaces</strong>, copiar los enlaces acortados al portapapeles y un historial de enlaces previamente acortados. 🚀
-</p>
-</div>
-                                                                                      
-</td>       
-
-<td width="50%">
-<h3 align="center">TODO App</h3>
-<div align="center">
-<a href="https://github.com/kevinpadi/todo-app" target="_blank"><img src="https://github.com/KevinPadi/todo-app/blob/main/design/desktop-preview.jpg" width="400" alt="todo app"></a>
-<p>
-<a href="https://github.com/kevinpadi/todo-app" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://kevinpadi.github.io/todo-app" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE SITE-black?style=for-the-badge&color=white">
-</a>
-</p>
-<p>Una aplicación de <strong>Todos</strong> sencilla creada con <strong>React ⚛</strong>, <strong>Chakra UI 🎨</strong> y <strong>Framer Motion</strong> para poder <strong>ordenar la lista</strong>. Puedes <strong>filtrar los todos</strong> dependiendo de su <strong>estado</strong> y <strong>ordenarlos</strong> como prefieras! 🔥
-</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
+</td>
+</tr>
+</table>
 <br>
 
 ###
