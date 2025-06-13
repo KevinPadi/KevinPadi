@@ -1,4 +1,4 @@
-<h1 align="left">Hola! 👋 Soy Kevin </h1>
+<h1 align="left">Hola!👋 Soy Kevin, desarrollador Full Stack </h1>
 <div align="center">
   <img width="75%" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" style="object-fit: contain;" />
 </div>
